@@ -1,0 +1,22 @@
+{
+	"tokenColors": "./Ecos-light.tmTheme",
+	"colors": {
+		"editor.background": "#EDEDED",
+		"editorCursor.foreground": "#3d3d3d",
+		"editor.foreground": "#1D1D1D",
+		"editorWhitespace.foreground": "#D1D1D1",
+		"editor.lineHighlightBackground": "#e8e8e8",
+		"editor.selectionBackground": "#D6D6D6",
+		"editor.selectionHighlightBackground": "#dadada",
+		// "editor.selectionHighlightBorder" : "green" ,
+		"editor.wordHighlightBackground" : "#e6e6e6" ,
+		"editorIndentGuide.background": "#cccccc" ,
+		"editorLineNumber.foreground": "#9c9c9c" ,
+		"tab.activeBackground": "#d8d8d8" ,
+		"sideBar.foreground": "#000000",
+		"editorIndentGuide.background": "#dddddd" ,
+		"editorIndentGuide.activeBackground": "#ff9999",
+		"tree.indentGuidesStroke": "#79d3fb" ,
+	},
+	"name": "Ecos light theme for VS Code"
+}
