@@ -10,5 +10,5 @@
 2. Search for **ECOS Theme**
 3. Click Install
 4. Open the Command Palette with Ctrl+Shift+P(Windows) or Command+Shift+P(Mac)
-5. Select Preferences: Color Theme and choose a **ECOS**.
+5. Select Preferences: Color Theme and choose  **"ECOS light theme for VS Code"**.
 6. Enjoy!
