@@ -13,6 +13,7 @@
 		"editorIndentGuide.background": "#dddddd" ,
 		"editorIndentGuide.activeBackground": "#ff9999",
         "quickInputList.focusBackground"  : "#7ea2c1" ,
+        "list.activeSelectionBackground": "#7ea2c1",
 		"sideBar.foreground": "#000000",
 		"tab.activeBackground": "#ececec" ,
 		"tab.inactiveBackground": "#dddddd" ,
