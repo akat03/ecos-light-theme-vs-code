@@ -1,13 +1,13 @@
 {
 	"tokenColors": "./Ecos-light.tmTheme",
 	"colors": {
+		"list.inactiveSelectionBackground": "#A3B7C6",
 		"editor.background": "#f6f6f6",
 		"editorCursor.foreground": "#3d3d3d",
 		"editor.foreground": "#1D1D1D",
 		"editorWhitespace.foreground": "#D1D1D1",
 		"editor.lineHighlightBackground": "#e8e8e8",
 		"editor.selectionBackground": "#d6d6d6",
-		// "editor.selectionHighlightBackground": "#eaeaea",
 		"editor.wordHighlightBackground" : "#ff000012" ,
 		"editorLineNumber.foreground": "#9c9c9c" ,
 		"editorIndentGuide.background1": "#dddddd" ,
