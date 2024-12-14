@@ -2,7 +2,7 @@
 	"tokenColors": "./Ecos-light.tmTheme",
 	"colors": {
 		"list.inactiveSelectionBackground": "#A3B7C6",
-		"editor.background": "#f8f8f8",
+		"editor.background": "#fafafa",
 		"editorCursor.foreground": "#3d3d3d",
 		"editor.foreground": "#1D1D1D",
 		"editorWhitespace.foreground": "#D1D1D1",
